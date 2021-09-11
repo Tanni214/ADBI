@@ -1,11 +1,5 @@
 
-.imag{
-    border-radius: 8%;
-    margin-left: 38%;
-    margin-top: 2%;
-    transform: translate(-50%, 0)
 
-}
 
 .h2{
     margin-top: 5%;
@@ -14,7 +8,8 @@
     overflow:auto;
     height: 400px;
     margin-top: 6%;
-    margin-left: 25%;
+    margin-left: 50%;
+    transform: translate(-50%, 0);
 }
 
 #contenedor_formulario{
