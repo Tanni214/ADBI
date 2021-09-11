@@ -1,0 +1,28 @@
+
+
+.imag{
+    border-radius: 8%;
+    margin-left: 38%;
+
+}
+
+@media(max-width:768px){
+    #intro{
+        width: 90%;
+    }
+
+    .servicio_fila{
+        width: 100;
+        text-align: center;
+
+    }
+
+}
+
+@media(max-width:768px){
+    .icono-wrap{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+

@@ -1,0 +1,52 @@
+
+.imag{
+    border-radius: 8%;
+    margin-left: 38%;
+    margin-top: 2%;
+
+}
+
+.h2{
+    margin-top: 5%;
+}
+.img{
+    overflow:auto;
+    height: 400px;
+    margin-top: 6%;
+    margin-left: 25%;
+}
+
+#contenedor_formulario{
+
+    position: relative;
+    margin-top: 5%;
+    margin-left: 28%;
+    
+    background: cornsilk;
+    border-radius: 8px;
+    max-width: 500px;
+}
+
+#titulo_formulario{
+    color: darkmagenta;
+
+}
+@media(max-width:768px){
+    #intro{
+        width: 90%;
+    }
+
+    .servicio_fila{
+        width: 100;
+        text-align: center;
+
+    }
+
+}
+
+@media(max-width:768px){
+    .icono-wrap{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
